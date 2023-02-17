@@ -21,3 +21,5 @@ Os conteúdos abordados nas listas são:
 - Lista 4: Exercícios referentes à aula 6 (e algumas revisões das aulas anteriores);
 
 A prova do segundo módulo abrange todo o conteúdo aplicado durante as aulas e o que foi exercitado nas listas.
+
+> OBS: as aulas, exemplos e listas de exercícios foram realizados com auxílio do programa DBeaver.
